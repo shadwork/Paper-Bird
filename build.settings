@@ -1,0 +1,34 @@
+-- build.settings for project: PaperBird
+-- Managed with http://CoronaProjectManager.com
+-- Copyright 2014 . All Rights Reserved.
+-- cpmgen build.settings
+settings =
+{
+	orientation =
+	{
+		default ="portrait",
+		content = "portrait",
+		supported =
+		{
+			"portrait"
+		},
+	},
+	plugins =
+	{
+		["CoronaProvider.ads.admob"] =
+		{
+
+			publisherId = "com.coronalabs",
+		},
+	},
+   android =
+   {
+      usesPermissions =
+      {
+         "android.permission.INTERNET",
+         "android.permission.ACCESS_NETWORK_STATE",
+         "android.permission.READ_PHONE_STATE",
+      },
+   },
+
+}
