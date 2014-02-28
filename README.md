@@ -1,7 +1,7 @@
 Paper-Bird
 ==========
 
-Quick and dirty corona fluppy bird clone
+Quick and dirty Corona flappy bird clone
 
 Application avalaible in Google Play https://play.google.com/store/apps/details?id=org.chaszmin.paperbird
 
